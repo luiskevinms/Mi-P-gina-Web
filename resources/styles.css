@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    background-color: #854075;
+    text-align: left;
+    padding: 15px;
+}
+
+header a{
+    color: aliceblue;
+    /** el primer valor aplica para top bottom y el segundo para left right **/
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    font-size: 200%;
+}
+
+main {
+    flex: 1;
+    padding: 30px;
+    text-align: left;
+}
