@@ -24,7 +24,34 @@ header a{
 }
 
 main {
-    flex: 1;
-    padding: 30px;
+    flex: 10;
+    padding: 60px;
     text-align: left;
+}
+
+main p{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.input-welcome{
+    padding: 10px 20px;
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.button-ok{
+    padding: 10px 20px;
+    background: #221fb6;
+    color: azure;
+    cursor: pointer;
+}
+
+footer{
+    background-color: rgb(95, 46, 192);
+    color: #fff;
+    text-align: left;
+    padding: 15px;
 }
