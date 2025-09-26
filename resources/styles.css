@@ -49,6 +49,34 @@ main p{
     cursor: pointer;
 }
 
+.button-suma{
+    padding: 10px 20px;
+    background: #221fb6;
+    color: azure;
+    cursor: pointer;
+}
+
+.button-resta{
+    padding: 10px 20px;
+    background: #221fb6;
+    color: azure;
+    cursor: pointer;
+}
+
+.button-multiplicar{
+    padding: 10px 20px;
+    background: #221fb6;
+    color: azure;
+    cursor: pointer;
+}
+
+.button-division{
+    padding: 10px 20px;
+    background: #221fb6;
+    color: azure;
+    cursor: pointer;
+}
+
 footer{
     background-color: rgb(95, 46, 192);
     color: #fff;
